@@ -168,6 +168,7 @@ Websites {#sites}
 - [Congrelate](http://congrelate.com) Congress data mashup visualization tool.
 - [Scholas](http://schol.as) Social file-sharing for academics.
 - [Gemcutter](http://gemcutter.org) Awesome gem hosting.
+- [SavvyFranchises](http://www.savvyfranchises.com/) Franchise Search + Discovery for the Savvy Entrepreneur.
 
 Companies using Sinatra {#biz}
 -----------------------
